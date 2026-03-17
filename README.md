@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:4A00E0&height=220&section=header&text=Oscar%20Medina%20Gomes%20da%20Costa&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=SRE%20%7C%20Platform%20%26%20DevOps%20Engineer%20%7C%20Python%2FJava%20Dev%20%7C%20SRE%20Lead&descAlignY=75&descSize=16&descColor=cccccc)
+# Oscar Medina Gomes da Costa
+
+### SRE | Platform & DevOps Engineer | Python/Java Dev | SRE Lead
 
 </div>
 
