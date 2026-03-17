@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:4A00E0&height=220&section=header&text=Oscar%20Gomes%20da%20Costa&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Staff%20SRE%20%7C%20Platform%20Engineer%20%7C%20AWS%20UG%20Community%20Leader&descAlignY=75&descSize=17&descColor=cccccc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:4A00E0&height=220&section=header&text=Oscar%20Medina%20Gomes%20da%20Costa&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Staff%20SRE%20%7C%20Platform%20Engineer%20%7C%20AWS%20UG%20Community%20Leader&descAlignY=75&descSize=17&descColor=cccccc)
 
 </div>
 
@@ -112,13 +112,18 @@
 
 ---
 
-## Artigos Recentes — Dev.to
+## Artigos Recentes
 
+### Dev.to
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-> Veja todos em [dev.to/theoscaargomes](https://dev.to/theoscaargomes)
-> Veja meus Linkedins Post em [Linkedin Posts] (https://www.linkedin.com/in/oscar-gomesdacosta/recent-activity/articles/)
+📝 Veja todos → [dev.to/theoscaargomes](https://dev.to/theoscaargomes)
+
+<br/>
+
+### LinkedIn Articles
+💼 Veja todos → [LinkedIn Posts](https://www.linkedin.com/in/oscar-gomesdacosta/recent-activity/articles/)
 
 ---
 
