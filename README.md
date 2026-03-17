@@ -19,6 +19,22 @@
 
 ---
 
+## Experiência
+
+```text
+Staff Site Reliability Engineer      2024 – 2025
+SRE Lead                             2023 – 2024
+Specialist Site Reliability Engineer 2022 – 2023
+SR Solutions Architect               2021
+Infrastructure Analyst DevOps        2021
+University Professor                 2021 – 2023
+  └─ Infrastructure, Cloud, DevOps, Containers, Serverless, Info Security
+Systems Analyst / Support Analyst    2018 – 2021
+  └─ DevOps, Datacenter, CI/CD, Automation, Monitoring
+```
+
+---
+
 ## Stack
 
 ### Languages & Backend
