@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:4A00E0&height=220&section=header&text=Oscar%20Medina%20Gomes%20da%20Costa&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=Staff%20SRE%20%7C%20Platform%20Engineer%20%7C%20AWS%20UG%20Community%20Leader&descAlignY=75&descSize=17&descColor=cccccc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:4A00E0&height=220&section=header&text=Oscar%20Medina%20Gomes%20da%20Costa&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=SRE%20%7C%20Platform%20%26%20DevOps%20Engineer%20%7C%20Python%2FJava%20Dev%20%7C%20SRE%20Lead&descAlignY=75&descSize=16&descColor=cccccc)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-theoscaargomes-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/theoscaargomes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-oscar--gomesdacosta-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oscar-gomesdacosta)
-[![AWS Community](https://img.shields.io/badge/AWS%20UserGroup-Community%20Leader-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://github.com/theoscaargomes)
+[![AWS Community](https://img.shields.io/badge/AWS%20UserGroup-Community%20Leader-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.linkedin.com/in/oscar-gomesdacosta/)
 [![Location](https://img.shields.io/badge/Foz%20do%20Iguaçu-Paraná%20BR-00A86B?style=flat-square)](https://github.com/theoscaargomes)
 
 </div>
