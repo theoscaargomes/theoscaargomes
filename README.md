@@ -47,6 +47,13 @@ Systems Analyst / Support Analyst    2018 – 2021
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PgBouncer](https://img.shields.io/badge/PgBouncer-4169E1?style=for-the-badge)
+
 ### Cloud AWS
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
@@ -54,6 +61,7 @@ Systems Analyst / Support Analyst    2018 – 2021
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![SQS](https://img.shields.io/badge/SQS-FF9900?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Route53](https://img.shields.io/badge/Route53-FF9900?style=for-the-badge&logo=amazonroute53&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -76,16 +84,25 @@ Systems Analyst / Support Analyst    2018 – 2021
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-1e0b42?style=for-the-badge&logo=argo&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
 ![KEDA](https://img.shields.io/badge/KEDA-326CE5?style=for-the-badge)
+![Karpenter](https://img.shields.io/badge/Karpenter-FF9900?style=for-the-badge)
 ![External Secrets](https://img.shields.io/badge/External%20Secrets-4A00E0?style=for-the-badge)
+![LitmusChaos](https://img.shields.io/badge/LitmusChaos-FF6C37?style=for-the-badge)
+
+### Platform Engineering
+![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=for-the-badge&logo=backstage&logoColor=black)
 
 ### CI/CD & Pipelines
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Atlantis](https://img.shields.io/badge/Atlantis-4A00E0?style=for-the-badge)
+
+### Performance & Chaos
+![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-00A651?style=for-the-badge)
+![LitmusChaos](https://img.shields.io/badge/LitmusChaos-FF6C37?style=for-the-badge)
 
 ### Observabilidade
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -94,11 +111,18 @@ Systems Analyst / Support Analyst    2018 – 2021
 ![Loki](https://img.shields.io/badge/Grafana%20Loki-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
 ![Tempo](https://img.shields.io/badge/Grafana%20Tempo-F2CC0C?style=for-the-badge&logo=grafana&logoColor=black)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?style=for-the-badge&logo=opentelemetry&logoColor=black)
+![Fluentbit](https://img.shields.io/badge/Fluent%20Bit-49BDA5?style=for-the-badge)
+![Thanos](https://img.shields.io/badge/Thanos-6D41FF?style=for-the-badge)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Opsgenie](https://img.shields.io/badge/Opsgenie-172B4D?style=for-the-badge&logo=opsgenie&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
 ![Sloth](https://img.shields.io/badge/Sloth%20SLO-E6522C?style=for-the-badge)
 
 ### Mensageria & API Gateway
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Schema Registry](https://img.shields.io/badge/Schema%20Registry-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Kong](https://img.shields.io/badge/Kong-003459?style=for-the-badge&logo=kong&logoColor=white)
 
@@ -117,14 +141,14 @@ Systems Analyst / Support Analyst    2018 – 2021
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=theoscaargomes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theoscaargomes&theme=tokyonight" />
 <img height="165" src="https://streak-stats.demolab.com/?user=theoscaargomes&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoscaargomes&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+<img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theoscaargomes&theme=tokyonight" />
 
 </div>
 
